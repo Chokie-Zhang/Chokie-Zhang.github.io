@@ -1,0 +1,15 @@
+site_name: Chokie
+site_description: Welcome to Chokie's blog.
+site_author: Chokie
+site_dir: 'ura'
+copyright: 'Copyright &copy; 2020 Chokie'
+nav:
+  - Home: index.md
+  - Game: game/index.md
+  - Anime: anime/index.md
+  - Comic: comic/index.md
+  - music: music/index.md
+  - 表博客: omote/
+
+theme:
+  name: cinder
