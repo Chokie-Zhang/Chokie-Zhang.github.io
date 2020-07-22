@@ -13,6 +13,13 @@ nav:
 theme:
   name: cinder
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: 'https://github.com/Chokie-Zhang'
+    - icon: fontawesome/brands/twitter
+      link: 'https://twitter.com/Chokiezh'
+
 google_analytics:
   - UA-173124167-1
   - auto

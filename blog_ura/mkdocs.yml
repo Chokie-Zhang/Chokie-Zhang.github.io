@@ -13,3 +13,12 @@ nav:
 
 theme:
   name: cinder
+
+extra:
+  social:
+    - icon: fontawesome/brands/steam
+      link: 'https://steamcommunity.com/id/ZhChokie/'
+
+google_analytics:
+  - UA-173124167-1
+  - auto
